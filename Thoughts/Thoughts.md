@@ -27,7 +27,7 @@ This new app is going to try to do the following (better):
     
 - Basic Features (i.e. first release)
     - Should allow organizing the meetings (+ announcing it on Twitter/Facebook as well)
-    - Should allow following chapters and being informed about meetings
+    - Should allow following chapters and being informed about meetings, time shifts, illness of speakers...
     - Should allow chapter members to signal attendance
     - Should display information about each chapter
         - Name
