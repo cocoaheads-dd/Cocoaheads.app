@@ -19,11 +19,13 @@ This new app is going to try to do the following (better):
     - Should not consider being multi-platform, since it's targeted for Apple user groups anyway
     - Backend / Data storage:  I suggest using CloudKit, because why not?
     - The language will be Swift, because this app is also an opportunity to learn
+    - The project should include unit tests, be well documented, use continous integration
     
 - Characteristics
     - Should be very easy to use
     - Should work for all Cocoaheads chapters
     - Should be multilingual
+    - Should be a universal app that works and looks great on all device types and sizes
     
 - Basic Features (i.e. first release)
     - Should allow organizing the meetings (+ announcing it on Twitter/Facebook as well)
