@@ -37,6 +37,7 @@ This new app is going to try to do the following (better):
         - Chapter icon (if any)
         - Member list (maybe private information, in that case just number of followers?)
         - Contact information (twitter, etc.)
+    - Chat about the session beforehand (What to talk about? Change proposals? Suggest another date? ...)
 
 - Advanced Features (i.e. things for updates)
     - Should show videos or links to videos (recordings of sessions)
